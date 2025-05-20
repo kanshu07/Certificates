@@ -5,6 +5,8 @@ IBM GenAI
 <br>
 IBM Cyber Security
 <br>
+IBM Introduction to Cloud
+<br>
 VITYarthi Python Essensial
 <br>
 VITYarthi Fundamentals of AI and ML
