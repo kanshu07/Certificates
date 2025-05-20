@@ -20,3 +20,5 @@ SoloLearn C++ Intermediate
 Coursera Unity And C# Baisc
 <br>
 Coursera Intro to AR, VR, MR, XR Technologies
+<br>
+NPTEL Human Computer Interactions
