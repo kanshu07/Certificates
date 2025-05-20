@@ -1,24 +1,24 @@
 # Certificates
 These are all the Certificates i have which Includes :- 
 <br>
-IBM GenAI
+1) IBM GenAI
 <br>
-IBM Cyber Security
+2) IBM Cyber Security
 <br>
-IBM Introduction to Cloud
+3) IBM Introduction to Cloud
 <br>
-VITYarthi Python Essensial
+4) VITYarthi Python Essensial
 <br>
-VITYarthi Fundamentals of AI and ML
+5) VITYarthi Fundamentals of AI and ML
 <br>
-MatLab Onramp
+6) MatLab Onramp
 <br>
-SoloLearn Introduction to C++
+7) SoloLearn Introduction to C++
 <br>
-SoloLearn C++ Intermediate
+8) SoloLearn C++ Intermediate
 <br>
-Coursera Unity And C# Baisc
+9) Coursera Unity And C# Baisc
 <br>
-Coursera Intro to AR, VR, MR, XR Technologies
+10) Coursera Intro to AR, VR, MR, XR Technologies
 <br>
-NPTEL Human Computer Interactions
+11) NPTEL Human Computer Interactions
